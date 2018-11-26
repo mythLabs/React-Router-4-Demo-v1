@@ -1,9 +1,13 @@
-React Router v4 example
-#yarn install #yarn start
+# playground-react-routerV4
 
-Nested routing implemented at Books component. For simplicity logic,Admin,FakeAuth component kept inside App
+## How to use
+### yarn install 
+#### yarn start
 
-Basic routing
-Nested routing
-Nested routing with Paramaters
-Authenticated routing
+### Nested routing implemented at Books component. For simplicity logic,Admin,FakeAuth component kept inside App
+
+### Types
+  Basic routing <br/>
+  Nested routing <br/>
+  Nested routing with Paramaters <br/>
+  Authenticated routing <br/>
